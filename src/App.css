@@ -1,9 +1,13 @@
 /* Add styling for your page here */
 
 .App {
-
+    margin: 10%;
+    padding: 10%;
 }
 
-.BakeryItem {
-  
-}
+/* .BakeryItem {
+    display: flex;
+    border-color: black;
+    border-style: dashed;
+    padding: 5%;
+} */
